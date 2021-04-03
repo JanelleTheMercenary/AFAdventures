@@ -1,0 +1,160 @@
+body {
+font-family: 'Cabin', sans-serif;
+  text-align: center;
+}
+
+h1 {
+font-family: 'Amatic SC', cursive;
+  font-size: 5rem;
+  padding-top: 5%;
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+ color: #fff;
+ font-size: 4rem;
+ padding-bottom: 3%;
+}
+
+h3 {
+  font-weight: bold;
+  color: #5b5b5b;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #8f8f8f;
+}
+
+.container-header {
+  padding: 3% 15% 7%;
+}
+
+.container-body {
+  padding: 7% 15%;
+}
+
+.container-footer {
+  padding: 3% 15%;
+}
+
+.order-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* Sections */
+
+.dark-section {
+  background-color: #5eaaa8;
+  color: #fff;
+}
+
+}
+
+.light-section {
+  background-color: #F8F1F1;
+}
+
+.light-section h1 {
+  color: #5eaaa8;
+}
+
+/* Header Section  */
+
+.navbar-brand {
+  font-family: 'Amatic SC', cursive;
+  font-size: 2rem;
+}
+
+.nav-link {
+  font-family: 'Cabin Condensed', sans-serif;
+  font-size: 1.2rem;
+}
+
+.nav-item {
+  padding: 0 16px;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+#title {
+  text-align: left;
+}
+
+.header-image {
+  width: 100%;
+  padding-top: 10%;
+}
+
+
+/* About section */
+
+.about {
+  padding: 5%;
+}
+
+.about-icon {
+  color: #A3D2CA;
+  margin-bottom: 1rem;
+}
+
+.about-icon:hover {
+  color: #5eaaa8;
+}
+
+#about {
+  background-color: #F8F1F1;
+}
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Pitch Section */
+
+#pitch {
+  background-color: #A3D2CA;
+
+}
+
+/* Adventures section  */
+
+.product-row {
+  margin-top: 2%;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 200px;
+}
+
+.card-text {
+  color: #8f8f8f
+}
+
+/* Partner Section  */
+
+.bullet-list {
+  padding-left:5%;
+  padding-right: 5%;
+}
+
+.bullet-text {
+  font-size: 1rem;
+  color: #8f8f8f;
+  text-align: left;
+}
+
+/* footer */
+
+.footericon {
+  padding: 20px 10px;
+}
+
+.footertext {
+  font-size: small;
+  color: #fff;
+}
