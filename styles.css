@@ -49,6 +49,10 @@ p {
   color: #fff;
 }
 
+.dark-h2 {
+  color: #5eaaa8;
+}
+
 }
 
 .light-section {
@@ -118,6 +122,16 @@ span {
 #pitch {
   background-color: #A3D2CA;
 
+}
+
+/* Impact section  */
+
+.impact {
+  padding: 5%;
+}
+
+.impact-icon {
+  width: 95%;
 }
 
 /* Adventures section  */
